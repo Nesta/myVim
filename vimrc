@@ -19,11 +19,13 @@ set encoding=utf-8
 set cursorline
 set numberwidth=5
 set clipboard=unnamed
-"colorscheme zen
+colorscheme zen
 "colorscheme vibrantink
 
 " Toggle spell checking on and off with `,s`
 let mapleader = ","
+let g:cssColorVimDoNotMessMyUpdatetime = 1
+let g:syntastic_sass_checkers=["sass_lint"]
 nmap <silent> <leader>s :set spell!<CR>
 
 " Set region to casteñano español

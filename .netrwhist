@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/Nesta/Emergya/projects/icm/sites/default'
+let g:netrw_dirhist_2='/Users/Nesta/omega'
+let g:netrw_dirhist_3='/Users/Nesta/ICM-Ecosistema/icm_ecosistema/css'
+let g:netrw_dirhist_4='/Users/Nesta/putoICM/ICM-Ecosistema'
+let g:netrw_dirhist_5='/Users/Nesta/Emergya/projects/ladrupaleraUK/themes/da_vinci/css'
